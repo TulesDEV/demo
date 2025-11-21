@@ -1,1 +1,0 @@
-import{a as t,j as s}from"./main-BVtB-mq8.js";function n(){const e=t.useLoaderData();return s.jsxs("div",{className:"space-y-2",children:[s.jsx("h4",{className:"text-xl font-bold underline",children:e.title}),s.jsx("div",{className:"text-sm",children:e.body})]})}export{n as component};
